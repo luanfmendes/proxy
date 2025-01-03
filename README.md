@@ -1,4 +1,4 @@
-# Padrão Proxy com Controle de Acesso em Java
+# Padrão Proxy
 
 ## 📖 Sobre o Padrão Proxy
 
